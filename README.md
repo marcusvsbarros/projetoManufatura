@@ -1,6 +1,6 @@
 <div align="center">
     
-![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Banner%20para%20Docs%20Resumo%20de%20Projeto%20Moderno%20Minimalista%20Preto%20e%20Branco.png)
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/CalmaMente%20capa.jpeg)
 </div>
 <br id="topo">
 <p align="center">
@@ -27,17 +27,17 @@ Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudes
 |:------:|:----------:|:-----------:|:--------------------------------------------------------------------------------------------:|
 | 01     | 14/04/2022 | ✔️ Concluída | Criar o layout da tela de login                                                              |
 | 02     | 15/05/2022 | ✔️ Concluída | Criar o formulário de login                                                                  |
-| 03     | 05/06/2022 | ✔️ Em andamento | Conectar o formulário ao backend para autenticação                                        |
-| 04     | 20/06/2022 | ✔️ Futura | Testar funcionalidades de login e realizar correções                                            |
-| 05     | 05/07/2022 | ✔️ Futura | Criar interface para exibir e gerenciar conteúdo                                                |
-| 06     | 20/07/2022 | ✔️ Futura | Lógica, segurança e backup                                                                      |
-| 07     | 05/08/2022 | ✔️ Em andamento | Testar acesso ao conteúdo                                                                 |
-| 08     | 20/08/2022 | ✔️ Em andamento | Criar navegação entre as seções                                                           |
+| 03     | 05/06/2022 | ✔️ Concluída | Conectar o formulário ao backend para autenticação                                        |
+| 04     | 20/06/2022 | ✔️ Concluída | Testar funcionalidades de login e realizar correções                                            |
+| 05     | 05/07/2022 | ✔️ Concluída | Criar interface para exibir e gerenciar conteúdo                                                |
+| 06     | 20/07/2022 | ✔️ Concluída | Lógica, segurança e backup                                                                      |
+| 07     | 05/08/2022 | ✔️ Concluída | Testar acesso ao conteúdo                                                                 |
+| 08     | 20/08/2022 | ✔️ Concluída | Criar navegação entre as seções                                                           |
 | 09     | 05/09/2022 | ✔️ Concluída | Implementar botões ou links para a navegação                                                 |
 | 10     | 20/09/2022 | ✔️ Concluída | Testar a navegação entre as seções                                                           |
-| 11     | 05/10/2022 | ✔️ Em andamento | Criar campo de busca                                                                      |
-| 12     | 20/10/2022 | ✔️ Em andamento | Implementar lógica de busca no backend                                                    |
-| 13     | 05/11/2022 | ✔️ Futura | Exibir resultados da busca na interface                                                         |
+| 11     | 05/10/2022 | ✔️ Concluída | Criar campo de busca                                                                      |
+| 12     | 20/10/2022 | ✔️ Concluída | Implementar lógica de busca no backend                                                    |
+| 13     | 05/11/2022 | ✔️ Concluída | Exibir resultados da busca na interface                                                         |
 | 14     | 20/11/2022 | ✔️ Concluída | Testar funcionalidade de busca                                                               |
 | 15     | 05/12/2022 | ✔️ Concluída | Criar interface para publicar informações                                                    |
 | 16     | 20/12/2022 | ✔️ Concluída | Implementar formulário para entrada de informações                                           |
@@ -75,12 +75,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Node.js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node" />  
 <img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" />
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
-<img src="https://img.shields.io/badge/Python-CED4DA?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
-<img src="https://img.shields.io/badge/Google%20Sheets-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=34A853" alt="Google Sheets" /> 
-<img src="https://img.shields.io/badge/Google%20Docs-CED4DA?style=for-the-badge&logo=google-sheets&logoColor=0D96F6" alt="Google Docs" />
     
 → [Voltar ao topo](#topo)
 
