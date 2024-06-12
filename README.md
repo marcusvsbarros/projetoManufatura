@@ -83,6 +83,12 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 <span id="equipe">
 
+## 📚 Diagrama de Classes
+
+![Descrição da imagem](https://drive.google.com/file/d/1zY0laynVTrO0TDs4jrQbnBMVHgMDxxJy/view?usp=sharing)
+ 
+
+
 ## :busts_in_silhouette: Equipe
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
