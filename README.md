@@ -21,7 +21,7 @@ Projeto baseado na metodologia ágil
 <br>
 :pushpin: Status do Projeto : Em andamento ⚠️
 
-### 🏁 Entregas de Sprints
+## 🏁 Entregas de Sprints
 Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante. Observe a relação a seguir:
 | Sprint | Previsão   | Status      | Descrição                                                                                     |
 |:------:|:----------:|:-----------:|:--------------------------------------------------------------------------------------------:|
