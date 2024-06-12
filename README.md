@@ -22,10 +22,31 @@ O CalmaMente aborda a ansiedade, depressão e TDAH em profundidade, fornecendo i
 
 ## Índice
 
-- [Entrega de Sprints](#descrição)
-- [Tecnologias](#funcionalidades)
-- [Diagrama de Classes](#tecnologias-utilizadas)
-- [Equipe](#instalação)
+- [Escopo](#escopo)
+- [Metodologia](#metodologia)
+- [Entrega de Sprints](#entregadesprints)
+- [Tecnologias](#tecnologia)
+- [Diagrama de Classes](#diagramadeclasses)
+- [Equipe](#equipe)
+
+
+## 📒 Escopo
+A documentação abrange todos os aspectos do desenvolvimento do site, incluindo a definição de requisitos, design, desenvolvimento, testes, implantação e manutenção contínua. O foco é fornecer uma visão completa e detalhada do projeto, garantindo que futuros desenvolvedores e mantenedores possam compreender e evoluir o sistema de maneira eficaz.
+
+## 📒 Metodologia
+O desenvolvimento seguiu uma abordagem interativa e incremental, utilizando práticas de desenvolvimento ágil (Scrum) para assegurar flexibilidade e adaptação às necessidades dos usuários. A documentação foi criada paralelamente ao desenvolvimento, permitindo ajustes contínuos com base no feedback dos stakeholders.
+
+## Identificação do público alvo
+O site CalmaMente visa atender um público-alvo diversificado, incluindo indivíduos diagnosticados com TDAH, depressão e ansiedade, bem como seus familiares e amigos, profissionais de saúde mental, estudantes, pesquisadores e o público em geral. Cada grupo busca diferentes tipos de apoio e informação:
+
+Indivíduos com TDAH: Procuram informações sobre sintomas, causas, tratamentos, técnicas de organização e produtividade, e comunidades de apoio.
+Pessoas com depressão: Necessitam de conteúdo sobre sintomas, tratamentos, técnicas de autoajuda, histórias de superação e ferramentas de monitoramento de humor.
+Aqueles com ansiedade: Buscam guias sobre tipos de ansiedade, estratégias de gerenciamento, técnicas de relaxamento e comunidades de apoio.
+Familiares e amigos: Precisam de recursos educativos, guias de apoio e ferramentas de comunicação para melhor apoiar seus entes queridos.
+Profissionais de saúde mental: Utilizam o site como recurso adicional para seus pacientes, recomendando materiais e acessando artigos científicos.
+Estudantes e pesquisadores: Procuram artigos científicos e estudos de caso para apoiar suas pesquisas.
+Público em geral: Interessados em aumentar a conscientização sobre saúde mental para apoiar outros ou aumentar seu próprio conhecimento.
+O site oferece conteúdo e recursos personalizados para garantir que todos os usuários encontrem o suporte necessário para melhorar a qualidade de vida e promover o bem-estar emocional.
 
 
 ## 🏁 Entregas de Sprints
