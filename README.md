@@ -100,7 +100,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Desenvolvedora Back End | Yara Paes de Bona           |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)              |
-| Desenvolvedora Front End  | Laura Jane Antunes |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]((https://github.com/LJAMistik))     |
+| Desenvolvedora Front End  | Laura Jane Antunes |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LJAMistik)     |
 |   Analista de Teste    | Marcus Vinicyus Souza Barros               |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcusvsbarros)        |
 
 
