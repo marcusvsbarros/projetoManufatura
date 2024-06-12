@@ -10,33 +10,39 @@
 </p>
    
 <span id="sobre">
+    
+:pushpin: Status do Projeto : Em andamento ⚠️
 
 ## :bookmark_tabs: Sobre o projeto
 CalmaMente é um projeto interdisciplinar desenvolvido com base nos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.  Apresenta-se como um site e futuramente um aplicativo de celular, cujo objetivo principal do é fornecer informações e apoio para pessoas de todas as idades que enfrentam desafios relacionados à saúde mental, como ansiedade, depressão e TDAH.
 O CalmaMente aborda a ansiedade, depressão e TDAH em profundidade, fornecendo informações sobre causas, sintomas, tratamentos e técnicas de gerenciamento. Também inclui recursos sobre grupos de apoio, linhas de ajuda, técnicas de autoajuda, e mantém os usuários atualizados com notícias e artigos relacionados à saúde mental.
 
 
-<br>
-Projeto baseado na metodologia ágil
-<br>
-:pushpin: Status do Projeto : Em andamento ⚠️
+
+## Índice
+
+- [Entrega de Sprints](#descrição)
+- [Tecnologias](#funcionalidades)
+- [Diagrama de Classes](#tecnologias-utilizadas)
+- [Equipe](#instalação)
+
 
 ## 🏁 Entregas de Sprints
 Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante. Observe a relação a seguir:
 | Sprint | Previsão   | Status      | Descrição                                                                                     |
 |:------:|:----------:|:-----------:|:--------------------------------------------------------------------------------------------:|
-| 01     | 14/04/2022 | ✔️ Concluída | Criar o layout da tela de login                                                              |
-| 02     | 15/05/2022 | ✔️ Concluída | Criar o formulário de login                                                                  |
-| 03     | 05/06/2022 | ✔️ Concluída | Conectar o formulário ao backend para autenticação                                        |
-| 04     | 20/06/2022 | ✔️ Concluída | Testar funcionalidades de login e realizar correções                                            |
-| 05     | 05/07/2022 | ✔️ Concluída | Criar interface para exibir e gerenciar conteúdo                                                |
-| 06     | 20/07/2022 | ✔️ Concluída | Lógica, segurança e backup                                                                      |
-| 07     | 05/08/2022 | ✔️ Concluída | Testar acesso ao conteúdo                                                                 |
-| 08     | 20/08/2022 | ✔️ Concluída | Criar navegação entre as seções                                                           |
-| 09     | 05/09/2022 | ✔️ Concluída | Implementar botões ou links para a navegação                                                 |
-| 10     | 20/09/2022 | ✔️ Concluída | Testar a navegação entre as seções                                                           |
-| 11     | 05/10/2022 | ✔️ Concluída | Criar campo de busca                                                                      |
-| 12     | 20/10/2022 | ✔️ Concluída | Implementar lógica de busca no backend                                                    |
+| 01     | 14/05/2024 | ✔️ Concluída | Criar o layout da tela de login                                                              |
+| 02     | 15/05/2024 | ✔️ Concluída | Criar o formulário de login                                                                  |
+| 03     | 19/05/2024 | ✔️ Concluída | Conectar o formulário ao backend para autenticação                                        |
+| 04     | 20/05/2024 | ✔️ Concluída | Testar funcionalidades de login e realizar correções                                            |
+| 05     | 02/06/2024 | ✔️ Concluída | Criar interface para exibir e gerenciar conteúdo                                                |
+| 06     | 20/04/2024 | ✔️ Concluída | Lógica, segurança e backup                                                                      |
+| 07     | 05/05/2024 | ✔️ Concluída | Testar acesso ao conteúdo                                                                 |
+| 08     | 07/05/2024 | ✔️ Concluída | Criar navegação entre as seções                                                           |
+| 09     | 09/05/2024 | ✔️ Concluída | Implementar botões ou links para a navegação                                                 |
+| 10     | 10/05/2024 | ✔️ Concluída | Testar a navegação entre as seções                                                           |
+| 11     | 12/05/2024 | ✔️ Concluída | Criar campo de busca                                                                      |
+| 12     | 12/05/2024 | ✔️ Concluída | Implementar lógica de busca no backend                                                    |
 | 13     | 05/11/2022 | ✔️ Concluída | Exibir resultados da busca na interface                                                         |
 | 14     | 20/11/2022 | ✔️ Concluída | Testar funcionalidade de busca                                                               |
 | 15     | 05/12/2022 | ✔️ Concluída | Criar interface para publicar informações                                                    |
@@ -85,9 +91,8 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
 ## 📚 Diagrama de Classes
 
-![Descrição da imagem](https://drive.google.com/file/d/1zY0laynVTrO0TDs4jrQbnBMVHgMDxxJy/view?usp=sharing)
+![Descrição da imagem](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
  
-
 
 ## :busts_in_silhouette: Equipe
 
