@@ -7,6 +7,7 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
     <a href="#publico">Publico</a>  |
+    <a href="#sprints">Sprints</a>  |
     <a href="#backlog">Backlog</a>  |  
     <a href="#telas">Demonstração das Telas</a>  |
     <a href="#prototipo">Protótipo & Documentação</a>  |  
@@ -42,6 +43,7 @@ Estudantes e pesquisadores: Procuram artigos científicos e estudos de caso para
 Público em geral: Interessados em aumentar a conscientização sobre saúde mental para apoiar outros ou aumentar seu próprio conhecimento.
 O site oferece conteúdo e recursos personalizados para garantir que todos os usuários encontrem o suporte necessário para melhorar a qualidade de vida e promover o bem-estar emocional.
 
+<span id="sprints">
 
 ## 🏁 Entregas de Sprints
 
