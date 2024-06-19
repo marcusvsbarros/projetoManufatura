@@ -6,7 +6,9 @@
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
+    <a href="#publico">Publico</a>  |
     <a href="#backlog">Backlog</a>  |  
+    <a href="#telas">Demonstração das Telas</a>  |
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
@@ -25,6 +27,8 @@ A documentação abrange todos os aspectos do desenvolvimento do site, incluindo
 
 ## 📒 Metodologia
 O desenvolvimento seguiu uma abordagem interativa e incremental, utilizando práticas de desenvolvimento ágil (Scrum) para assegurar flexibilidade e adaptação às necessidades dos usuários. A documentação foi criada paralelamente ao desenvolvimento, permitindo ajustes contínuos com base no feedback dos stakeholders.
+
+<span id="publico">
 
 ## :busts_in_silhouette: Identificação do público alvo
 O site CalmaMente visa atender um público-alvo diversificado, incluindo indivíduos diagnosticados com TDAH, depressão e ansiedade, bem como seus familiares e amigos, profissionais de saúde mental, estudantes, pesquisadores e o público em geral. Cada grupo busca diferentes tipos de apoio e informação:
@@ -51,9 +55,8 @@ Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudes
     
 → [Voltar ao topo](#Calmamente)
 
-
-<span id="equipe">
-
+<span id="telas">
+    
 ## :clapper: Demonstração das Telas
 
 Confira a seguir uma demonstração das principais telas do site:
