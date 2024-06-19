@@ -6,7 +6,7 @@
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlogs</a>  |  
+    <a href="#backlogs">Backlog</a>  |  
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
@@ -92,7 +92,7 @@ Confira a seguir uma demonstração das principais telas do site:
 <br>
 ![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
 
-<span id="tecnologias">
+<span id="backlog">
 
 ## 📚 Backlog
 
@@ -100,7 +100,7 @@ A atividade de mapeamento das Clínicas serão abordadas futuramente juntamente 
 ![Backlog](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.30.16.jpeg)
 
 
-<span id="tecnologias">
+<span id="prototipo">
 
 ## :desktop_computer: Protótipo & Documentação
 
@@ -110,7 +110,7 @@ A atividade de mapeamento das Clínicas serão abordadas futuramente juntamente 
 > - Interação Humano Computador: [clique aqui para acessar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/devWeb%20-%20Cen%C3%A1rios.pdf)
 > - Banco de Dados não relacional - API: [clique aqui para acessar](https://github.com/LJAMistik/ProjetoBDNSQL)
 
-    
+<span id="tecnologias">    
 ## 🛠️ Tecnologias
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
@@ -133,6 +133,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
     
 → [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
 
+<span id="equipe">
 ## :busts_in_silhouette: Equipe
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
