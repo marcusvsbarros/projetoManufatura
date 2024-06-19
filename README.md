@@ -6,7 +6,7 @@
 <br id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
-    <a href="#backlogs">Backlog</a>  |  
+    <a href="#backlog">Backlog</a>  |  
     <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
@@ -110,7 +110,8 @@ A atividade de mapeamento das Clínicas serão abordadas futuramente juntamente 
 > - Interação Humano Computador: [clique aqui para acessar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/devWeb%20-%20Cen%C3%A1rios.pdf)
 > - Banco de Dados não relacional - API: [clique aqui para acessar](https://github.com/LJAMistik/ProjetoBDNSQL)
 
-<span id="tecnologias">    
+<span id="tecnologias">  
+    
 ## 🛠️ Tecnologias
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
