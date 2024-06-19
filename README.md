@@ -94,6 +94,15 @@ Confira a seguir uma demonstração das principais telas do site:
 
 <span id="tecnologias">
 
+## 📚 Backlog
+
+A atividade de mapeamento das Clínicas serão abordadas futuramente juntamente com o desenvolvimento do aplicativo que é o ponto focal da plataforma.
+![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
+<br>
+![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
+
+<span id="tecnologias">
+
 ## :desktop_computer: Protótipo & Documentação
 
 > 🔗 **Links gerais** <br>
