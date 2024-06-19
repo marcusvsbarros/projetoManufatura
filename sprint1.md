@@ -23,6 +23,8 @@ Além disso, foram definidas diretrizes para a criação de conteúdo, garantind
 
 Ao final desta primeira fase, o site Calmamente encontra-se com uma estrutura robusta e funcionalidades iniciais validadas, pronto para avançar para as próximas etapas de desenvolvimento. A equipe continua comprometida em criar uma plataforma que realmente faça a diferença na vida das pessoas, oferecendo um suporte acessível e de qualidade para aqueles que enfrentam transtornos de ansiedade, depressão e TDAH. 
 
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.08.07.jpeg)
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
@@ -37,5 +39,7 @@ Entendimento geral dos requisitos funcionais e não funcionais, atualização do
         
 ## :heavy_check_mark: Entregas
 Durante esta sprint, nossa equipe empenhou-se em realizar backlog futuro constatado no semestre anterior e preparação da estrutura de trabalho para adequação da nova metodologia. Todos integrantes desempenharam papel importante nas entregas, contribuindo assim na conclusão de todos os objetivos estabelecidos.
+
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.14.18.jpeg)
 
 → [Voltar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/tree/main)
