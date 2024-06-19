@@ -5,30 +5,20 @@
 </div>
 <br id="topo">
 <p align="center">
-    <a href="#sobre">Sobre</a>  |   
+    <a href="#sobre">Sobre</a>  |  
+    <a href="#backlogs">Backlogs & User Stories</a>  |  
+    <a href="#prototipo">Protótipo & Documentação</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
 </p>
    
 <span id="sobre">
     
-:pushpin: Status do Projeto : Em andamento ⚠️
+:pushpin: Status do Projeto : **Em andamento**
 
 ## :bookmark_tabs: Sobre o projeto
 CalmaMente é um projeto interdisciplinar desenvolvido com base nos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.  Apresenta-se como um site e futuramente um aplicativo de celular, cujo objetivo principal do é fornecer informações e apoio para pessoas de todas as idades que enfrentam desafios relacionados à saúde mental, como ansiedade, depressão e TDAH.
 O CalmaMente aborda a ansiedade, depressão e TDAH em profundidade, fornecendo informações sobre causas, sintomas, tratamentos e técnicas de gerenciamento. Também inclui recursos sobre grupos de apoio, linhas de ajuda, técnicas de autoajuda, e mantém os usuários atualizados com notícias e artigos relacionados à saúde mental.
-
-
-
-## Índice
-
-- [Escopo](#escopo)
-- [Metodologia](#metodologia)
-- [Entrega de Sprints](#entregadesprints)
-- [Tecnologias](#tecnologia)
-- [Diagrama de Classes](#diagramadeclasses)
-- [Equipe](#equipe)
-
 
 ## 📒 Escopo
 A documentação abrange todos os aspectos do desenvolvimento do site, incluindo a definição de requisitos, design, desenvolvimento, testes, implantação e manutenção contínua. O foco é fornecer uma visão completa e detalhada do projeto, garantindo que futuros desenvolvedores e mantenedores possam compreender e evoluir o sistema de maneira eficaz.
@@ -36,7 +26,7 @@ A documentação abrange todos os aspectos do desenvolvimento do site, incluindo
 ## 📒 Metodologia
 O desenvolvimento seguiu uma abordagem interativa e incremental, utilizando práticas de desenvolvimento ágil (Scrum) para assegurar flexibilidade e adaptação às necessidades dos usuários. A documentação foi criada paralelamente ao desenvolvimento, permitindo ajustes contínuos com base no feedback dos stakeholders.
 
-## Identificação do público alvo
+## :busts_in_silhouette: Identificação do público alvo
 O site CalmaMente visa atender um público-alvo diversificado, incluindo indivíduos diagnosticados com TDAH, depressão e ansiedade, bem como seus familiares e amigos, profissionais de saúde mental, estudantes, pesquisadores e o público em geral. Cada grupo busca diferentes tipos de apoio e informação:
 
 Indivíduos com TDAH: Procuram informações sobre sintomas, causas, tratamentos, técnicas de organização e produtividade, e comunidades de apoio.
@@ -50,52 +40,76 @@ O site oferece conteúdo e recursos personalizados para garantir que todos os us
 
 
 ## 🏁 Entregas de Sprints
-Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante. Observe a relação a seguir:
-| Sprint | Previsão   | Status      | Descrição                                                                                     |
-|:------:|:----------:|:-----------:|:--------------------------------------------------------------------------------------------:|
-| 01     | 14/05/2024 | ✔️ Concluída | Criar o layout da tela de login                                                              |
-| 02     | 15/05/2024 | ✔️ Concluída | Criar o formulário de login                                                                  |
-| 03     | 19/05/2024 | ✔️ Concluída | Conectar o formulário ao backend para autenticação                                        |
-| 04     | 20/05/2024 | ✔️ Concluída | Testar funcionalidades de login e realizar correções                                            |
-| 05     | 02/06/2024 | ✔️ Concluída | Criar interface para exibir e gerenciar conteúdo                                                |
-| 06     | 20/04/2024 | ✔️ Concluída | Lógica, segurança e backup                                                                      |
-| 07     | 05/05/2024 | ✔️ Concluída | Testar acesso ao conteúdo                                                                 |
-| 08     | 07/05/2024 | ✔️ Concluída | Criar navegação entre as seções                                                           |
-| 09     | 09/05/2024 | ✔️ Concluída | Implementar botões ou links para a navegação                                                 |
-| 10     | 10/05/2024 | ✔️ Concluída | Testar a navegação entre as seções                                                           |
-| 11     | 12/05/2024 | ✔️ Concluída | Criar campo de busca                                                                      |
-| 12     | 12/05/2024 | ✔️ Concluída | Implementar lógica de busca no backend                                                    |
-| 13     | 05/11/2022 | ✔️ Concluída | Exibir resultados da busca na interface                                                         |
-| 14     | 20/11/2022 | ✔️ Concluída | Testar funcionalidade de busca                                                               |
-| 15     | 05/12/2022 | ✔️ Concluída | Criar interface para publicar informações                                                    |
-| 16     | 20/12/2022 | ✔️ Concluída | Implementar formulário para entrada de informações                                           |
-| 17     | 05/01/2023 | ✔️ Concluída | Conectar formulário ao backend para publicação                                               |
-| 18     | 20/01/2023 | ✔️ Concluída | Testar funcionalidade de publicação                                                          |
-| 19     | 05/02/2023 | ✔️ Concluída | Implementar validação de dados no frontend                                                   |
-| 20     | 20/02/2023 | ✔️ Concluída | Implementar validação de dados no backend                                                    |
-| 21     | 05/03/2023 | ✔️ Concluída | Testar validação de informações                                                              |
-| 22     | 20/03/2023 | ✔️ Concluída | Criar interface para alterar dados do usuário                                                |
-| 23     | 05/04/2023 | ✔️ Concluída | Conectar formulário ao backend para alterações                                               |
-| 24     | 20/04/2023 | ✔️ Concluída | Implementar formulário para alteração de dados                                               |
-| 25     | 05/05/2023 | ✔️ Concluída | Testar funcionalidade de alteração de dados e senhas                                         |
-| 26     | 20/05/2023 | ✔️ Concluída | Criar interface para configurar eventos                                                      |
-| 27     | 05/06/2023 | ✔️ Concluída | Implementar formulário para configuração de eventos                                          |
-| 28     | 20/06/2023 | ✔️ Concluída | Conectar formulário ao backend para salvar configurações                                     |
-| 29     | 05/07/2023 | ✔️ Concluída | Testar funcionalidade de configuração de eventos                                             |
-| 30     | 20/07/2023 | ✔️ Concluída | Criar design para mapear clínicas                                                            |
-| 31     | 05/08/2023 | ✔️ Concluída | Implementar backend para mapear clínicas                                                     |
-| 32     | 20/08/2023 | ✔️ Concluída | Testar mapeamento de clínicas                                                                |
 
+| Sprint | Previsão | Status | Histórico |
+|:--:|:----------:|:----------------|:-------------------------------------------------:|
+| 01 | 30/04/2024 | ✔️ Concluída    | [ver relatório](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Sprint1.md) |
+| 02 | 31/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Sprint2.md) |
+| 03 | 19/06/2024 | 🛠️ Em andamento    | [ver relatório](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Sprint3.md) |
+
+Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante.
     
 → [Voltar ao topo](#Calmamente)
 
+
+<span id="equipe">
+
+## :clapper: Demonstração das Telas
+
+Confira a seguir uma demonstração das principais telas do site:
+<details>
+   <summary>Página Inicial</summary>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
+    </div>
+</details>
+<details>
+   <summary>Login</summary>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
+    </div>
+</details>
+<details>
+   <summary>Cadastro Usuário</summary>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
+    </div>
+</details>
+<details>
+   <summary>Cadástro Profissional</summary>
+    <div align="center">
+        <img src="./usuario_administrador.gif">
+    </div>
+</details>
+
+## 📚 Diagrama de Classes
+
+![Descrição da imagem](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
+ 
+## 📚 Requisitos
+
+![RF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RF.jpg)
+<br>
+![RNF](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/RNF.jpg)
+
 <span id="tecnologias">
 
+## :desktop_computer: Protótipo & Documentação
+
+> 🔗 **Links gerais** <br>
+> - Documentação geral: [clique aqui para acessar](./documentacao_geral.pdf)
+> - Técnicas de Programação: [clique aqui para acessar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/Apresenta%C3%A7%C3%A3o%20PI%20-%20T%C3%A9cnicas%20de%20Programa%C3%A7%C3%A3o.pdf)
+> - Interação Humano Computador: [clique aqui para acessar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Arquivos/devWeb%20-%20Cen%C3%A1rios.pdf)
+> - Banco de Dados não relacional - API: [clique aqui para acessar](https://github.com/LJAMistik/ProjetoBDNSQL)
+
+    
 ## 🛠️ Tecnologias
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
 
-<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /> 
+<img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" />
+<img src="https://img.shields.io/badge/Jira-CED4DA?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira" />
+<img src="https://img.shields.io/badge/Trello-CED4DA?style=for-the-badge&logo=trello&logoColor=0079BF" alt="Trello" />
 <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
 <img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
 <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 	 
@@ -103,25 +117,21 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Java-CED4DA?style=for-the-badge&logo=java&logoColor=DC143C" alt="Java" />
 <img src="https://img.shields.io/badge/MongoDB-CED4DA?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" /><br>
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
-<img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
+<img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" />
+<img src="https://img.shields.io/badge/Google_Drive-CED4DA?style=for-the-badge&logo=google-drive&logoColor=4285F4" alt="Google Drive" />
+<img src="https://img.shields.io/badge/OneDrive-CED4DA?style=for-the-badge&logo=onedrive&logoColor=0078D4" alt="OneDrive" />
+<img src="https://img.shields.io/badge/Proven_by_Users-CED4DA?style=for-the-badge&logo=provenbyusers&logoColor=DC143C" alt="Proven by Users" />
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /> 
     
 → [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
-
-<span id="equipe">
-
-## 📚 Diagrama de Classes
-
-![Descrição da imagem](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Diagrama.jpeg)
- 
 
 ## :busts_in_silhouette: Equipe
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Desenvolvedora Back End | Yara Paes de Bona           |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)              |
-| Desenvolvedora Front End  | Laura Jane Antunes |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LJAMistik)     |
-|   Analista de Teste    | Marcus Vinicyus Souza Barros               |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcusvsbarros)        |
+| Product Owner | Yara Paes de Bona           |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)              |
+| Developer  | Laura Jane Antunes |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LJAMistik)     |
+|   Scrum Master    | Marcus Vinicyus Souza Barros               |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/marcusvsbarros)        |
 
 
 → [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
