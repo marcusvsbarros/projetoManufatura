@@ -54,6 +54,9 @@ O site oferece conteúdo e recursos personalizados para garantir que todos os us
 | 03 | 19/06/2024 | 🛠️ Em andamento    | [ver relatório](https://github.com/CalmaMente/Projeto-Integrador-3DSM/blob/main/Sprint3.md) |
 
 Todas as atividades foram mapeadas e planejadas utilizando ferramentas que pudessem auxiliar no controle e direcionamento técnico de cada integrante.
+
+> - Projeto - Jira: [clique aqui para acessar](https://calmamente.atlassian.net/jira/software/projects/SCRUM/boards/1)
+
     
 → [Voltar ao topo](#Calmamente)
 
