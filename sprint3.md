@@ -21,6 +21,8 @@ Para assegurar que o Calmamente funcionasse perfeitamente sob diferentes condiç
 
 Por último, a elaboração das documentações técnicas foi realizada com grande cuidado. Documentações detalhadas foram criadas para descrever a arquitetura do sistema, as APIs desenvolvidas, os processos de autenticação, e os procedimentos de manutenção e atualização do site. Essas documentações são essenciais não apenas para a continuidade do projeto, mas também para fornecer uma referência clara e precisa para futuras melhorias e expansões.
 
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.10.45.jpeg)
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
@@ -30,5 +32,7 @@ O objetivo desta sprint é a integração da estrutura Front-End com o Back-End,
         
 ## :heavy_check_mark: Entregas
 Durante esta sprint, nossa equipe trabalhou de forma separada, atribuindo tarefas especificas para cada integrante, mantendo sempre uma boa comunicação entre todos, para que o desenvolvimento do site ocorresse de maneira alinhada e nivelada com as espectativas e diretrizes da plataforma.
+
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.14.51.jpeg)
 
 → [Voltar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/tree/main)
