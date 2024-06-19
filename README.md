@@ -140,6 +140,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 → [Voltar ao topo](https://github.com/marcusvsbarros/projetoManufatura/blob/main/README.md)
 
 <span id="equipe">
+
 ## :busts_in_silhouette: Equipe
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
