@@ -23,6 +23,8 @@ As principais funções do backend começaram a ser implementadas, incluindo a g
 
 Ao final desta segunda fase, o site Calmamente apresentava uma estrutura significativamente aprimorada, com um frontend atualizado e atraente, e um backend em desenvolvimento que promete suportar as funcionalidades avançadas planejadas para o projeto. Este progresso crucial prepara o caminho para a próxima etapa do desenvolvimento, onde funcionalidades mais específicas e interativas serão introduzidas, continuando a jornada para criar um espaço acolhedor e eficaz para pessoas que enfrentam transtornos de ansiedade, depressão e TDAH. 
 
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.08.57.jpeg)
+
 <span id="objetivos">
 
 ## :dart: Objetivos da Sprint
@@ -32,5 +34,7 @@ O objetivo desta sprint é iniciar a aplicação das alterações no layout da p
         
 ## :heavy_check_mark: Entregas
 Durante esta sprint, nossa equipe trabalhou de forma separada, atribuindo tarefas especificas para cada integrante, mantendo sempre uma boa comunicação entre todos, para que o desenvolvimento do site ocorresse de maneira alinhada e nivelada com as espectativas e diretrizes da plataforma.
+
+![banner](https://github.com/marcusvsbarros/projetoManufatura/blob/main/Files%20-%20Calmamente/WhatsApp%20Image%202024-06-19%20at%2010.14.37.jpeg)
 
 → [Voltar](https://github.com/CalmaMente/Projeto-Integrador-3DSM/tree/main)
